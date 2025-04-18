@@ -9,8 +9,8 @@ import uuid
 import yaml
 
 # Get config from environment variables
-agent_id = 'WI7Q38MOB4'        #4 Add Agent ID  
-agent_alias_id = 'XIYZEC2GXR'  #5 Add Agent Alias ID
+agent_id = ''        #4 Add Agent ID  
+agent_alias_id = ''  #5 Add Agent Alias ID
 ui_title =  "Welcome to Account Team Agent"
 ui_icon = "BEDROCK_AGENT_TEST_UI_ICON"
 
